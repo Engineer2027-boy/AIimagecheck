@@ -1,0 +1,27 @@
+@import "https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap";
+/* [project]/OneDrive/Desktop/AIImagechecker/src/app/globals.css [app-client] (css) */
+@tailwind base;
+
+@tailwind components;
+
+@tailwind utilities;
+
+html, body {
+  color: #fff;
+  background-color: #000;
+  margin: 0;
+  padding: 0;
+  font-family: Inter, sans-serif;
+}
+
+.graph-bg {
+  z-index: -10;
+  background-image: url("/img/graph_paper.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: fixed;
+  inset: 0;
+}
+
+/*# sourceMappingURL=OneDrive_Desktop_AIImagechecker_src_app_globals_0b3cece7.css.map*/

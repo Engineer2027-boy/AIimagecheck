@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 2, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/AYUSH%20ADITYA/OneDrive/Desktop/AIImagechecker/src/app/globals.css"],"sourcesContent":["@tailwind base;\r\n@tailwind components;\r\n@tailwind utilities;\r\n\r\n/* src/app/globals.css */\r\n@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&display=swap');\r\n\r\n\r\n\r\nhtml, body {\r\n  background-color: #000000;\r\n  margin: 0;\r\n  padding: 0;\r\n  color: white;\r\n  font-family: 'Inter', sans-serif;\r\n}\r\n\r\n\r\n.graph-bg {\r\n  background-image: url('/img/graph_paper.png');\r\n  background-size: cover;\r\n  background-position: center;\r\n  background-repeat: no-repeat;\r\n  position: fixed;\r\n  inset: 0;\r\n  z-index: -10;\r\n}"],"names":[],"mappings":"AAAA;;AACA;;AACA;;AAOA;;;;;;;;AASA"}}]
+}
