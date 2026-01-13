@@ -3,7 +3,7 @@ ____________________________________________
 Features
 
 *Image is choosen by the user.
-*A simple GUI
+*A simple GUI    
 *Shows inaccuracy of each prediction
 
 ____________________________________________
@@ -22,5 +22,5 @@ Project Structure
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── img_logo.png    
 ├── README.md     
 _____________________________________________
-Author
+Author    
 Ayush Aditya
