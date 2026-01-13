@@ -7,7 +7,7 @@ Features
 *Shows inaccuracy of each prediction
 
 ____________________________________________
-Project Structure
+Project Structure    
 ├── backend/    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;└── main.py    
 ├──package.json    
